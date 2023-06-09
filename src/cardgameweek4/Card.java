@@ -6,7 +6,7 @@ package cardgameweek4;
  */
 public class Card {
     	
-		//variables
+		//variables of card class
         public enum Suit {HEARTS, CLUBS,SPADES,DIAMONDS};
         public enum Value{ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING};
         private final Suit suit;
