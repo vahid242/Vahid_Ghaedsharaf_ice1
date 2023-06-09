@@ -13,6 +13,7 @@ public class Card {
         private final Value value;
         String joker="joker";
         
+	// methods
         public Card(Suit s, Value gVal)
         {
            suit =s;
