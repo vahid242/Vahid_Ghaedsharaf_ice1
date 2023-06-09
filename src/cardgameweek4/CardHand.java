@@ -8,7 +8,8 @@ package cardgameweek4;
 
 public class CardHand {
 
-        private int handSize = 52;
+	//variables
+    private int handSize = 52;
 	public Card[] cards = new Card[handSize];
 
 	
