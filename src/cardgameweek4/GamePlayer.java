@@ -7,6 +7,7 @@ package cardgameweek4;
  */
 public class GamePlayer {
 
+	// main method
 	public static void main(String[] args) {
 		CardHand ch = new CardHand();
                 ch.generateHand();
